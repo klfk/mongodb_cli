@@ -1,0 +1,2050 @@
+[{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f99d"
+  },
+  "name": "Pulp Fiction",
+  "art": [
+    "Dokumentation"
+  ],
+  "jahr": 1960,
+  "regisseur": "Ingmar Bergman",
+  "schauspieler": [
+    "Brad Pitt",
+    "Kevin Spacey",
+    "Michael Caine",
+    "Cate Blanchett"
+  ],
+  "rating": 8.1,
+  "min_alter": 0,
+  "bemerkungen": "Brillante Dialoge"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f99e"
+  },
+  "name": "Some Like It Hot",
+  "art": [
+    "Western",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "jahr": 1967,
+  "regisseur": "Francis Ford Coppola",
+  "schauspieler": [
+    "Al Pacino",
+    "Christian Bale",
+    "Matt Damon",
+    "Brad Pitt"
+  ],
+  "rating": 6.1,
+  "min_alter": 6,
+  "bemerkungen": "Emotionale Achterbahnfahrt"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f99f"
+  },
+  "name": ":q",
+  "art": "q",
+  "jahr": "q",
+  "regisseur": "q::.",
+  "schauspieler": "::qqqqqqqqq",
+  "rating": 8.6,
+  "min_alter": 16,
+  "bemerkungen": "qq"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a0"
+  },
+  "name": "The Shawshank Redemption",
+  "art": [
+    "Fantasy",
+    "Sport"
+  ],
+  "jahr": 1973,
+  "regisseur": "Quentin Tarantino",
+  "schauspieler": [
+    "Ben Affleck",
+    "Gary Oldman"
+  ],
+  "rating": 1.7,
+  "min_alter": 6,
+  "bemerkungen": "Innovativ und kreativ"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a1"
+  },
+  "name": "Alien",
+  "art": [
+    "Western"
+  ],
+  "jahr": 1996,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Liam Neeson",
+    "Morgan Freeman",
+    "Jack Nicholson",
+    "Scarlett Johansson",
+    "Will Smith"
+  ],
+  "rating": 9.4,
+  "min_alter": 12,
+  "bemerkungen": "Packende Handlung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a2"
+  },
+  "name": "Star Wars",
+  "art": [
+    "Familie",
+    "Abenteuer"
+  ],
+  "jahr": 1950,
+  "regisseur": "Coen Brothers",
+  "schauspieler": [
+    "Gary Oldman",
+    "Marlon Brando"
+  ],
+  "rating": 1.2,
+  "min_alter": 18,
+  "bemerkungen": "Unvergessliche Szenen"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a3"
+  },
+  "name": "whatever haha",
+  "art": [
+    "Musical",
+    "Familie",
+    "Abenteuer"
+  ],
+  "jahr": 1963,
+  "regisseur": "James Cameron",
+  "schauspieler": [
+    "Gary Oldman",
+    "Kevin Spacey",
+    "Al Pacino",
+    "Meryl Streep"
+  ],
+  "rating": 3.5,
+  "min_alter": 0,
+  "bemerkungen": "Episches Filmerlebnis"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a4"
+  },
+  "name": "The Shawshank Redemption",
+  "art": [
+    "Komödie",
+    "Biografie"
+  ],
+  "jahr": 2016,
+  "regisseur": "Orson Welles",
+  "schauspieler": [
+    "Ben Affleck",
+    "Jack Nicholson",
+    "Morgan Freeman",
+    "Meryl Streep",
+    "Scarlett Johansson"
+  ],
+  "rating": 2.2,
+  "min_alter": 18,
+  "bemerkungen": "Visuell atemberaubend"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a5"
+  },
+  "name": "Singin' in the Rain",
+  "art": [
+    "Komödie",
+    "Horror",
+    "Dokumentation"
+  ],
+  "jahr": 2023,
+  "regisseur": "Paul Thomas Anderson",
+  "schauspieler": [
+    "Ben Affleck",
+    "Gary Oldman",
+    "Christian Bale",
+    "Philip Seymour Hoffman",
+    "Harrison Ford"
+  ],
+  "rating": 6.5,
+  "min_alter": 12,
+  "bemerkungen": "Künstlerisch wertvoll"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a6"
+  },
+  "name": "Psycho",
+  "art": [
+    "Kriegsfilm"
+  ],
+  "jahr": 1969,
+  "regisseur": "Akira Kurosawa",
+  "schauspieler": [
+    "Harrison Ford",
+    "Charlize Theron",
+    "Will Smith"
+  ],
+  "rating": 4.1,
+  "min_alter": 12,
+  "bemerkungen": "Atmosphärisch dicht"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a7"
+  },
+  "name": "Pulp Fiction",
+  "art": [
+    "Sci-Fi",
+    "Animation",
+    "Krimi"
+  ],
+  "jahr": 1952,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Ben Affleck",
+    "Ralph Fiennes",
+    "Harrison Ford",
+    "Jake Gyllenhaal",
+    "Meryl Streep"
+  ],
+  "rating": 9.2,
+  "min_alter": 18,
+  "bemerkungen": "Fantastische Schauspieler"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a8"
+  },
+  "name": "Forrest Gump",
+  "art": [
+    "Thriller",
+    "Sport",
+    "Dokumentation"
+  ],
+  "jahr": 1955,
+  "regisseur": "Orson Welles",
+  "schauspieler": [
+    "Nicole Kidman",
+    "Jake Gyllenhaal",
+    "Matt Damon"
+  ],
+  "rating": 4.9,
+  "min_alter": 12,
+  "bemerkungen": "Episches Filmerlebnis"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9a9"
+  },
+  "name": "Interstellar",
+  "art": [
+    "Horror"
+  ],
+  "jahr": 2011,
+  "regisseur": "Alfred Hitchcock",
+  "schauspieler": [
+    "Nicole Kidman",
+    "Sandra Bullock"
+  ],
+  "rating": 5.9,
+  "min_alter": 6,
+  "bemerkungen": "Überragend inszeniert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9aa"
+  },
+  "name": "Network",
+  "art": [
+    "Horror",
+    "Komödie"
+  ],
+  "jahr": 2002,
+  "regisseur": "Paul Thomas Anderson",
+  "schauspieler": [
+    "Hugh Jackman",
+    "Natalie Portman"
+  ],
+  "rating": 0.1,
+  "min_alter": 18,
+  "bemerkungen": "Ein Muss für Filmliebhaber"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ab"
+  },
+  "name": "Alien",
+  "art": "q.q",
+  "jahr": 1991,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Brad Pitt",
+    "Edward Norton",
+    "Tom Hanks",
+    "Meryl Streep",
+    "Michael Caine"
+  ],
+  "rating": 3.7,
+  "min_alter": 16,
+  "bemerkungen": "Romantisch und berührend"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ac"
+  },
+  "name": "Goodfellas",
+  "art": [
+    "Sci-Fi",
+    "Kriegsfilm",
+    "Krimi"
+  ],
+  "jahr": 1973,
+  "regisseur": "Martin Scorsese",
+  "schauspieler": [
+    "Charlize Theron",
+    "Nicole Kidman",
+    "Will Smith",
+    "George Clooney"
+  ],
+  "rating": 0.9,
+  "min_alter": 18,
+  "bemerkungen": "Atmosphärisch dicht"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ae"
+  },
+  "name": "Titanic",
+  "art": [
+    "Sci-Fi",
+    "Musical",
+    "Thriller"
+  ],
+  "jahr": 1999,
+  "regisseur": "Ingmar Bergman",
+  "schauspieler": [
+    "Scarlett Johansson",
+    "Jennifer Lawrence",
+    "Cate Blanchett"
+  ],
+  "rating": 4.8,
+  "min_alter": 18,
+  "bemerkungen": "Unvergessliche Szenen"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9af"
+  },
+  "name": "Taxi Driver",
+  "art": [
+    "Horror",
+    "Western",
+    "Musical"
+  ],
+  "jahr": 2005,
+  "regisseur": "Howard Hawks",
+  "schauspieler": [
+    "Joaquin Phoenix",
+    "George Clooney"
+  ],
+  "rating": 0,
+  "min_alter": 0,
+  "bemerkungen": "Atmosphärisch dicht"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b0"
+  },
+  "name": "Psycho",
+  "art": [
+    "Thriller"
+  ],
+  "jahr": 1964,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Cate Blanchett",
+    "Sandra Bullock",
+    "Liam Neeson"
+  ],
+  "rating": 7.5,
+  "min_alter": 0,
+  "bemerkungen": "Fantastische Schauspieler"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b1"
+  },
+  "name": "Gone with the Wind",
+  "art": [
+    "Western",
+    "Thriller",
+    "Romance"
+  ],
+  "jahr": 1970,
+  "regisseur": "Wes Anderson",
+  "schauspieler": [
+    "Matt Damon",
+    "Jack Nicholson",
+    "Amy Adams"
+  ],
+  "rating": 5.2,
+  "min_alter": 0,
+  "bemerkungen": "Absolute Meisterwerk"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b2"
+  },
+  "name": "Goodfellas",
+  "art": [
+    "Krimi",
+    "Animation"
+  ],
+  "jahr": 1953,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Meryl Streep",
+    "Leonardo DiCaprio"
+  ],
+  "rating": 4.2,
+  "min_alter": 6,
+  "bemerkungen": "Absolute Meisterwerk"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b3"
+  },
+  "name": "Modern Times",
+  "art": [
+    "Western",
+    "Musical",
+    "Drama"
+  ],
+  "jahr": 2018,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Scarlett Johansson",
+    "Ralph Fiennes"
+  ],
+  "rating": 1.4,
+  "min_alter": 16,
+  "bemerkungen": "Großartige Charakterentwicklung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b4"
+  },
+  "name": "Avatar",
+  "art": [
+    "Animation"
+  ],
+  "jahr": 1988,
+  "regisseur": "Paul Thomas Anderson",
+  "schauspieler": [
+    "Morgan Freeman",
+    "Ben Affleck"
+  ],
+  "rating": 2.7,
+  "min_alter": 6,
+  "bemerkungen": "Ein Muss für Filmliebhaber"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b5"
+  },
+  "name": "Inception",
+  "art": [
+    "Western"
+  ],
+  "jahr": 2009,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Ralph Fiennes",
+    "Leonardo DiCaprio",
+    "Morgan Freeman",
+    "Johnny Depp"
+  ],
+  "rating": 4.7,
+  "min_alter": 0,
+  "bemerkungen": "Düster aber fesselnd"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b6"
+  },
+  "name": "Avatar",
+  "art": [
+    "Musical",
+    "Krimi",
+    "Sci-Fi"
+  ],
+  "jahr": 2013,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Meryl Streep",
+    "Samuel L. Jackson",
+    "Hugh Jackman",
+    "Brad Pitt",
+    "Robert De Niro"
+  ],
+  "rating": 2.4,
+  "min_alter": 0,
+  "bemerkungen": "Großartige Charakterentwicklung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b7"
+  },
+  "name": "Singin' in the Rain",
+  "art": [
+    "Biografie",
+    "Musical"
+  ],
+  "jahr": 1975,
+  "regisseur": "Ridley Scott",
+  "schauspieler": [
+    "Sean Penn",
+    "Tom Hanks",
+    "Robert De Niro",
+    "Edward Norton"
+  ],
+  "rating": 2.2,
+  "min_alter": 0,
+  "bemerkungen": "Künstlerisch wertvoll"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b8"
+  },
+  "name": "Fight Club",
+  "art": [
+    "Kriegsfilm",
+    "Thriller",
+    "Animation"
+  ],
+  "jahr": 2023,
+  "regisseur": "Steven Spielberg",
+  "schauspieler": [
+    "Liam Neeson",
+    "Hugh Jackman",
+    "Nicole Kidman",
+    "Philip Seymour Hoffman",
+    "Morgan Freeman"
+  ],
+  "rating": 6.6,
+  "min_alter": 12,
+  "bemerkungen": "Künstlerisch wertvoll"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9b9"
+  },
+  "name": "On the Waterfront",
+  "art": [
+    "Musical"
+  ],
+  "jahr": 2007,
+  "regisseur": "Woody Allen",
+  "schauspieler": [
+    "Robert De Niro",
+    "Christian Bale",
+    "Al Pacino"
+  ],
+  "rating": 2.1,
+  "min_alter": 0,
+  "bemerkungen": "Witzig und charmant"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ba"
+  },
+  "name": "Raging Bull",
+  "art": [
+    "Dokumentation",
+    "Animation",
+    "Krimi"
+  ],
+  "jahr": 2014,
+  "regisseur": "David Fincher",
+  "schauspieler": [
+    "Robert De Niro",
+    "Ryan Gosling"
+  ],
+  "rating": 2.1,
+  "min_alter": 18,
+  "bemerkungen": "Actionreich und unterhaltsam"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9bb"
+  },
+  "name": "Raging Bull",
+  "art": [
+    "Dokumentation"
+  ],
+  "jahr": 1982,
+  "regisseur": "Coen Brothers",
+  "schauspieler": [
+    "Sean Penn",
+    "Robert De Niro"
+  ],
+  "rating": 5.1,
+  "min_alter": 0,
+  "bemerkungen": "Sehr empfehlenswert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9bc"
+  },
+  "name": "Forrest Gump",
+  "art": [
+    "Animation",
+    "Biografie"
+  ],
+  "jahr": 1952,
+  "regisseur": "David Lean",
+  "schauspieler": [
+    "Sandra Bullock",
+    "Emma Stone",
+    "Natalie Portman"
+  ],
+  "rating": 4,
+  "min_alter": 12,
+  "bemerkungen": "Grandiose Kameraführung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9bd"
+  },
+  "name": "The Gold Rush",
+  "art": [
+    "Thriller",
+    "Biografie",
+    "Kriegsfilm"
+  ],
+  "jahr": 1971,
+  "regisseur": "Wes Anderson",
+  "schauspieler": [
+    "Philip Seymour Hoffman",
+    "Charlize Theron",
+    "Sean Penn",
+    "Brad Pitt"
+  ],
+  "rating": 4.5,
+  "min_alter": 12,
+  "bemerkungen": "Innovativ und kreativ"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9be"
+  },
+  "name": "Star Wars",
+  "art": [
+    "Musical",
+    "Biografie",
+    "Familie"
+  ],
+  "jahr": 1996,
+  "regisseur": "Stanley Kubrick",
+  "schauspieler": [
+    "Philip Seymour Hoffman",
+    "Johnny Depp",
+    "Emma Stone"
+  ],
+  "rating": 7.3,
+  "min_alter": 16,
+  "bemerkungen": "Zeitloser Klassiker"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9bf"
+  },
+  "name": "Raging Bull",
+  "art": [
+    "Komödie",
+    "Musical"
+  ],
+  "jahr": 2017,
+  "regisseur": "Woody Allen",
+  "schauspieler": [
+    "Brad Pitt",
+    "Harrison Ford",
+    "Philip Seymour Hoffman",
+    "Cate Blanchett",
+    "Michael Caine"
+  ],
+  "rating": 8,
+  "min_alter": 6,
+  "bemerkungen": "Unvergessliche Szenen"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c0"
+  },
+  "name": "Raging Bull",
+  "art": [
+    "Drama",
+    "Action",
+    "Abenteuer"
+  ],
+  "jahr": 1959,
+  "regisseur": "Stanley Kubrick",
+  "schauspieler": [
+    "Ben Affleck",
+    "Samuel L. Jackson",
+    "Johnny Depp"
+  ],
+  "rating": 8,
+  "min_alter": 6,
+  "bemerkungen": "Grandiose Kameraführung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c1"
+  },
+  "name": "The Gold Rush",
+  "art": [
+    "Drama",
+    "Romance",
+    "Musical"
+  ],
+  "jahr": 1955,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Ben Affleck",
+    "Sandra Bullock"
+  ],
+  "rating": 6,
+  "min_alter": 16,
+  "bemerkungen": "Hervorragende Musik"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c2"
+  },
+  "name": "On the Waterfront",
+  "art": [
+    "Krimi",
+    "Horror"
+  ],
+  "jahr": 1974,
+  "regisseur": "Howard Hawks",
+  "schauspieler": [
+    "Edward Norton",
+    "Johnny Depp",
+    "Ben Affleck",
+    "Christian Bale"
+  ],
+  "rating": 6.3,
+  "min_alter": 0,
+  "bemerkungen": "Atmosphärisch dicht"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c3"
+  },
+  "name": "Titanic",
+  "art": [
+    "Biografie",
+    "Fantasy",
+    "Dokumentation"
+  ],
+  "jahr": 2013,
+  "regisseur": "Quentin Tarantino",
+  "schauspieler": [
+    "Samuel L. Jackson",
+    "Robert De Niro"
+  ],
+  "rating": 2.9,
+  "min_alter": 0,
+  "bemerkungen": "Sehr empfehlenswert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c4"
+  },
+  "name": "Gone with the Wind",
+  "art": [
+    "Abenteuer"
+  ],
+  "jahr": 1980,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Christian Bale",
+    "Philip Seymour Hoffman",
+    "Ryan Gosling",
+    "Sandra Bullock",
+    "Harrison Ford"
+  ],
+  "rating": 1,
+  "min_alter": 16,
+  "bemerkungen": "Düster aber fesselnd"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c5"
+  },
+  "name": "Titanic",
+  "art": [
+    "Komödie",
+    "Action",
+    "Drama"
+  ],
+  "jahr": 1968,
+  "regisseur": "Wes Anderson",
+  "schauspieler": [
+    "Al Pacino",
+    "Johnny Depp",
+    "Samuel L. Jackson"
+  ],
+  "rating": 1.2,
+  "min_alter": 12,
+  "bemerkungen": "Innovativ und kreativ"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c6"
+  },
+  "name": "Star Wars",
+  "art": [
+    "Komödie"
+  ],
+  "jahr": 2007,
+  "regisseur": "Quentin Tarantino",
+  "schauspieler": [
+    "Michael Caine",
+    "Samuel L. Jackson",
+    "Emma Stone",
+    "Joaquin Phoenix",
+    "Hugh Jackman"
+  ],
+  "rating": 5.5,
+  "min_alter": 16,
+  "bemerkungen": "Hervorragende Musik"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c7"
+  },
+  "name": "The Godfather",
+  "art": [
+    "Fantasy",
+    "Drama"
+  ],
+  "jahr": 2023,
+  "regisseur": "Ingmar Bergman",
+  "schauspieler": [
+    "Edward Norton",
+    "Ryan Gosling",
+    "Liam Neeson",
+    "Natalie Portman"
+  ],
+  "rating": 9.4,
+  "min_alter": 0,
+  "bemerkungen": "Hervorragende Musik"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c8"
+  },
+  "name": "Taxi Driver",
+  "art": [
+    "Fantasy",
+    "Familie"
+  ],
+  "jahr": 1993,
+  "regisseur": "David Lean",
+  "schauspieler": [
+    "Nicole Kidman",
+    "Michael Caine",
+    "Edward Norton",
+    "Matt Damon"
+  ],
+  "rating": 7.5,
+  "min_alter": 6,
+  "bemerkungen": "Unvergessliche Szenen"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9c9"
+  },
+  "name": "Pulp Fiction",
+  "art": [
+    "Sci-Fi"
+  ],
+  "jahr": 1978,
+  "regisseur": "Wes Anderson",
+  "schauspieler": [
+    "Robert De Niro",
+    "Emma Stone"
+  ],
+  "rating": 7.4,
+  "min_alter": 18,
+  "bemerkungen": "Sehr empfehlenswert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ca"
+  },
+  "name": "The Bridge on the River Kwai",
+  "art": [
+    "Fantasy",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "jahr": 2021,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Jennifer Lawrence",
+    "Robert De Niro",
+    "Amy Adams"
+  ],
+  "rating": 8.4,
+  "min_alter": 16,
+  "bemerkungen": "Fantastische Schauspieler"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9cb"
+  },
+  "name": "Vertigo",
+  "art": [
+    "Animation"
+  ],
+  "jahr": 1971,
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Meryl Streep",
+    "Leonardo DiCaprio",
+    "Morgan Freeman"
+  ],
+  "rating": 1.4,
+  "min_alter": 18,
+  "bemerkungen": "Überragend inszeniert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9cc"
+  },
+  "name": "Taxi Driver",
+  "art": [
+    "Fantasy",
+    "Thriller"
+  ],
+  "jahr": 2017,
+  "regisseur": "Stanley Kubrick",
+  "schauspieler": [
+    "Johnny Depp",
+    "Tom Hanks",
+    "Morgan Freeman",
+    "Anthony Hopkins"
+  ],
+  "rating": 2.2,
+  "min_alter": 0,
+  "bemerkungen": "Hervorragende Musik"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9cd"
+  },
+  "name": "The Godfather Part II",
+  "art": [
+    "Krimi",
+    "Sci-Fi",
+    "Komödie"
+  ],
+  "jahr": 2017,
+  "regisseur": "George Lucas",
+  "schauspieler": [
+    "Scarlett Johansson",
+    "George Clooney",
+    "Meryl Streep"
+  ],
+  "rating": 8.9,
+  "min_alter": 12,
+  "bemerkungen": "Überragend inszeniert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ce"
+  },
+  "name": "Taxi Driver",
+  "art": [
+    "Abenteuer",
+    "Drama"
+  ],
+  "jahr": 1985,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Meryl Streep",
+    "Sean Penn"
+  ],
+  "rating": 1.9,
+  "min_alter": 0,
+  "bemerkungen": "Überragend inszeniert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9cf"
+  },
+  "name": "All About Eve 1",
+  "art": [
+    "Sci-Fi",
+    "Kriegsfilm"
+  ],
+  "jahr": 1974,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Marlon Brando",
+    "Johnny Depp",
+    "Jack Nicholson",
+    "Philip Seymour Hoffman"
+  ],
+  "rating": 6.2,
+  "min_alter": 6,
+  "bemerkungen": "Hervorragende Musik"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d0"
+  },
+  "name": "Sunset Boulevard 2",
+  "art": [
+    "Biografie",
+    "Sci-Fi",
+    "Kriegsfilm"
+  ],
+  "jahr": 1988,
+  "regisseur": "David Lean",
+  "schauspieler": [
+    "Morgan Freeman",
+    "Liam Neeson",
+    "Jennifer Lawrence",
+    "Marlon Brando",
+    "Samuel L. Jackson"
+  ],
+  "rating": 7.4,
+  "min_alter": 18,
+  "bemerkungen": "Innovativ und kreativ"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d1"
+  },
+  "name": "Network 3",
+  "art": [
+    "Musical",
+    "Komödie",
+    "Biografie"
+  ],
+  "jahr": 1987,
+  "regisseur": "David Fincher",
+  "schauspieler": [
+    "Nicole Kidman",
+    "Sean Penn"
+  ],
+  "rating": 3.9,
+  "min_alter": 16,
+  "bemerkungen": "Witzig und charmant"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d2"
+  },
+  "name": "Star Wars 4",
+  "art": [
+    "Musical",
+    "Animation"
+  ],
+  "jahr": 1964,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Robert De Niro",
+    "Nicole Kidman",
+    "Sean Penn",
+    "Liam Neeson"
+  ],
+  "rating": 2.7,
+  "min_alter": 6,
+  "bemerkungen": "Fantastische Schauspieler"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d3"
+  },
+  "name": "The Dark Knight 5",
+  "art": [
+    "Sci-Fi"
+  ],
+  "jahr": 1963,
+  "regisseur": "Coen Brothers",
+  "schauspieler": [
+    "Jennifer Lawrence",
+    "Jack Nicholson",
+    "Al Pacino",
+    "Scarlett Johansson",
+    "Emma Stone"
+  ],
+  "rating": 0.1,
+  "min_alter": 6,
+  "bemerkungen": "Actionreich und unterhaltsam"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d4"
+  },
+  "name": "Matrix 6",
+  "art": [
+    "Familie",
+    "Western",
+    "Romance"
+  ],
+  "jahr": 1959,
+  "regisseur": "Quentin Tarantino",
+  "schauspieler": [
+    "Edward Norton",
+    "Al Pacino"
+  ],
+  "rating": 10,
+  "min_alter": 6,
+  "bemerkungen": "Visuell beeindruckend"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d5"
+  },
+  "name": "Forrest Gump 7",
+  "art": [
+    "Animation",
+    "Western"
+  ],
+  "jahr": 2000,
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Ryan Gosling",
+    "Cate Blanchett",
+    "Christian Bale",
+    "Samuel L. Jackson"
+  ],
+  "rating": 9.6,
+  "min_alter": 16,
+  "bemerkungen": "Unvergessliche Szenen"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d6"
+  },
+  "name": "The Maltese Falcon 8",
+  "art": [
+    "Drama",
+    "Animation"
+  ],
+  "jahr": 1950,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Marlon Brando",
+    "Emma Stone",
+    "Jack Nicholson",
+    "Philip Seymour Hoffman",
+    "Samuel L. Jackson"
+  ],
+  "rating": 9.4,
+  "min_alter": 16,
+  "bemerkungen": "Atmosphärisch dicht"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d7"
+  },
+  "name": "Superman 9",
+  "art": [
+    "Fantasy",
+    "Romance",
+    "Western"
+  ],
+  "jahr": 1950,
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Cate Blanchett",
+    "Meryl Streep",
+    "Robert De Niro",
+    "Sandra Bullock",
+    "Jack Nicholson"
+  ],
+  "rating": 5.1,
+  "min_alter": 6,
+  "bemerkungen": "Düster aber fesselnd"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d8"
+  },
+  "name": "The African Queen 10",
+  "art": [
+    "Biografie",
+    "Abenteuer",
+    "Sci-Fi"
+  ],
+  "jahr": 1961,
+  "regisseur": "Orson Welles",
+  "schauspieler": [
+    "Anthony Hopkins",
+    "Hugh Jackman",
+    "Ralph Fiennes",
+    "Christian Bale"
+  ],
+  "rating": 5,
+  "min_alter": 12,
+  "bemerkungen": "Zeitloser Klassiker"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9d9"
+  },
+  "name": "Singin' in the Rain 11",
+  "art": [
+    "Biografie",
+    "Abenteuer"
+  ],
+  "jahr": 1977,
+  "regisseur": "David Lean",
+  "schauspieler": [
+    "Ralph Fiennes",
+    "Robert De Niro",
+    "George Clooney",
+    "Kevin Spacey",
+    "Brad Pitt"
+  ],
+  "rating": 0.8,
+  "min_alter": 12,
+  "bemerkungen": "Absolute Meisterwerk"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9da"
+  },
+  "name": "Forrest Gump 12",
+  "art": [
+    "Sci-Fi"
+  ],
+  "jahr": 1966,
+  "regisseur": "Ingmar Bergman",
+  "schauspieler": [
+    "Jennifer Lawrence",
+    "Matt Damon",
+    "Amy Adams",
+    "Kevin Spacey"
+  ],
+  "rating": 3.1,
+  "min_alter": 0,
+  "bemerkungen": "Atmosphärisch dicht"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9db"
+  },
+  "name": "r",
+  "art": [
+    "Animation"
+  ],
+  "jahr": 1975,
+  "regisseur": "Stanley Kubrick",
+  "schauspieler": [
+    "Brad Pitt",
+    "Robert De Niro",
+    "Joaquin Phoenix"
+  ],
+  "rating": 5.1,
+  "min_alter": 12,
+  "bemerkungen": "Innovativ und kreativ"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9dc"
+  },
+  "name": "Some Like It Hot 14",
+  "art": [
+    "Abenteuer",
+    "Komödie"
+  ],
+  "jahr": 1976,
+  "regisseur": "Ridley Scott",
+  "schauspieler": [
+    "George Clooney",
+    "Ralph Fiennes",
+    "Robert De Niro",
+    "Nicole Kidman"
+  ],
+  "rating": 4.8,
+  "min_alter": 6,
+  "bemerkungen": "Spannend bis zum Schluss"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9dd"
+  },
+  "name": "Close Encounters 15",
+  "art": [
+    "Horror",
+    "Abenteuer",
+    "Komödie"
+  ],
+  "jahr": 1987,
+  "regisseur": "George Lucas",
+  "schauspieler": [
+    "Ben Affleck",
+    "Liam Neeson",
+    "Jack Nicholson",
+    "George Clooney",
+    "Russell Crowe"
+  ],
+  "rating": 9.8,
+  "min_alter": 0,
+  "bemerkungen": "Bewegende Geschichte"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9de"
+  },
+  "name": "Star Wars 16",
+  "art": [
+    "Horror",
+    "Abenteuer",
+    "Drama"
+  ],
+  "jahr": 1964,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Edward Norton",
+    "Sandra Bullock"
+  ],
+  "rating": 6.5,
+  "min_alter": 18,
+  "bemerkungen": "Emotionale Achterbahnfahrt"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9df"
+  },
+  "name": "Inception 17",
+  "art": [
+    "Thriller"
+  ],
+  "jahr": 1971,
+  "regisseur": "Howard Hawks",
+  "schauspieler": [
+    "George Clooney",
+    "Meryl Streep",
+    "Samuel L. Jackson"
+  ],
+  "rating": 1.6,
+  "min_alter": 18,
+  "bemerkungen": "Intelligenter Thriller"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e0"
+  },
+  "name": "Psycho 18",
+  "art": [
+    "Animation",
+    "Komödie",
+    "Abenteuer"
+  ],
+  "jahr": 1998,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Emma Stone",
+    "Morgan Freeman",
+    "Samuel L. Jackson",
+    "Will Smith"
+  ],
+  "rating": 4,
+  "min_alter": 0,
+  "bemerkungen": "Künstlerisch wertvoll"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e1"
+  },
+  "name": "Raging Bull 19",
+  "art": [
+    "Komödie",
+    "Action",
+    "Animation"
+  ],
+  "jahr": 2008,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Robert De Niro",
+    "Jennifer Lawrence",
+    "Kevin Spacey"
+  ],
+  "rating": 6,
+  "min_alter": 18,
+  "bemerkungen": "Grandiose Kameraführung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e2"
+  },
+  "name": "Sunset Boulevard 20",
+  "art": [
+    "Komödie",
+    "Horror"
+  ],
+  "jahr": 2014,
+  "regisseur": "James Cameron",
+  "schauspieler": [
+    "Matt Damon",
+    "Philip Seymour Hoffman",
+    "Brad Pitt"
+  ],
+  "rating": 4.6,
+  "min_alter": 0,
+  "bemerkungen": "Sehr empfehlenswert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e3"
+  },
+  "name": "The Treasure of the Sierra Madre 21",
+  "art": [
+    "Western",
+    "Dokumentation"
+  ],
+  "jahr": 2015,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Samuel L. Jackson",
+    "Ben Affleck",
+    "Ralph Fiennes"
+  ],
+  "rating": 4.5,
+  "min_alter": 6,
+  "bemerkungen": "Großartige Charakterentwicklung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e4"
+  },
+  "name": "Forrest Gump 22",
+  "art": [
+    "Western",
+    "Dokumentation",
+    "Sci-Fi"
+  ],
+  "jahr": 1991,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Jake Gyllenhaal",
+    "Marlon Brando",
+    "Kevin Spacey"
+  ],
+  "rating": 8.5,
+  "min_alter": 0,
+  "bemerkungen": "Perfekte Mischung aus Action und Drama"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e5"
+  },
+  "name": "The General 23",
+  "art": [
+    "Horror",
+    "Abenteuer"
+  ],
+  "jahr": 1980,
+  "regisseur": "John Ford",
+  "schauspieler": [
+    "Nicole Kidman",
+    "Gary Oldman"
+  ],
+  "rating": 6.3,
+  "min_alter": 18,
+  "bemerkungen": "Künstlerisch wertvoll"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e6"
+  },
+  "name": "Gladiator 24",
+  "art": [
+    "Western"
+  ],
+  "jahr": 1993,
+  "regisseur": "Martin Scorsese",
+  "schauspieler": [
+    "George Clooney",
+    "Amy Adams",
+    "Anthony Hopkins"
+  ],
+  "rating": 1,
+  "min_alter": 0,
+  "bemerkungen": "Packende Handlung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e7"
+  },
+  "name": "Matrix 25",
+  "art": [
+    "Western",
+    "Komödie"
+  ],
+  "jahr": 1985,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Sean Penn",
+    "Sandra Bullock",
+    "Ben Affleck"
+  ],
+  "rating": 6.1,
+  "min_alter": 6,
+  "bemerkungen": "Innovativ und kreativ"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e8"
+  },
+  "name": "The Deer Hunter 26",
+  "art": [
+    "Fantasy",
+    "Thriller",
+    "Western"
+  ],
+  "jahr": 1979,
+  "regisseur": "Woody Allen",
+  "schauspieler": [
+    "Michael Caine",
+    "Gary Oldman",
+    "Kevin Spacey",
+    "Jennifer Lawrence",
+    "Marlon Brando"
+  ],
+  "rating": 5.2,
+  "min_alter": 18,
+  "bemerkungen": "Witzig und charmant"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9e9"
+  },
+  "name": "Close Encounters 27",
+  "art": [
+    "Horror",
+    "Biografie",
+    "Sport"
+  ],
+  "jahr": 2010,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Edward Norton",
+    "Leonardo DiCaprio",
+    "Ryan Gosling",
+    "Matt Damon"
+  ],
+  "rating": 3.4,
+  "min_alter": 16,
+  "bemerkungen": "Brillante Dialoge"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9eb"
+  },
+  "name": "Vertigo 29",
+  "art": [
+    "Dokumentation"
+  ],
+  "jahr": 1980,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Joaquin Phoenix",
+    "Meryl Streep",
+    "Liam Neeson",
+    "Sandra Bullock",
+    "Hugh Jackman"
+  ],
+  "rating": 3.8,
+  "min_alter": 16,
+  "bemerkungen": "Packende Handlung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ec"
+  },
+  "name": "Interstellar 30",
+  "art": [
+    "Drama",
+    "Musical"
+  ],
+  "jahr": 2000,
+  "regisseur": "Denis Villeneuve",
+  "schauspieler": [
+    "Kevin Spacey",
+    "Jack Nicholson",
+    "Natalie Portman"
+  ],
+  "rating": 6.8,
+  "min_alter": 6,
+  "bemerkungen": "Visuell atemberaubend"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ed"
+  },
+  "name": "Chinatown 31",
+  "art": [
+    "Drama",
+    "Kriegsfilm"
+  ],
+  "jahr": 1996,
+  "regisseur": "David Lean",
+  "schauspieler": [
+    "Kevin Spacey",
+    "Tom Hanks"
+  ],
+  "rating": 9.7,
+  "min_alter": 6,
+  "bemerkungen": "Spannend bis zum Schluss"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ee"
+  },
+  "name": "Fight Club 32",
+  "art": [
+    "Horror"
+  ],
+  "jahr": 1966,
+  "regisseur": "George Lucas",
+  "schauspieler": [
+    "Russell Crowe",
+    "Jennifer Lawrence",
+    "Joaquin Phoenix",
+    "Johnny Depp"
+  ],
+  "rating": 9,
+  "min_alter": 16,
+  "bemerkungen": "Romantisch und berührend"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ef"
+  },
+  "name": "The Dark Knight 33",
+  "art": [
+    "Sci-Fi",
+    "Krimi"
+  ],
+  "jahr": 1958,
+  "regisseur": "Woody Allen",
+  "schauspieler": [
+    "Joaquin Phoenix",
+    "Kevin Spacey",
+    "Will Smith",
+    "Ralph Fiennes",
+    "Amy Adams"
+  ],
+  "rating": 2.9,
+  "min_alter": 0,
+  "bemerkungen": "Packende Handlung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f0"
+  },
+  "name": "City Lights 34",
+  "art": [
+    "Horror",
+    "Western"
+  ],
+  "jahr": 1995,
+  "regisseur": "Orson Welles",
+  "schauspieler": [
+    "Natalie Portman",
+    "Christian Bale",
+    "Kevin Spacey",
+    "George Clooney",
+    "Hugh Jackman"
+  ],
+  "rating": 9.6,
+  "min_alter": 6,
+  "bemerkungen": "Romantisch und berührend"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f1"
+  },
+  "name": "Sunset Boulevard 35",
+  "art": [
+    "Dokumentation"
+  ],
+  "jahr": 1990,
+  "regisseur": "David Fincher",
+  "schauspieler": [
+    "Jake Gyllenhaal",
+    "Samuel L. Jackson",
+    "Ryan Gosling"
+  ],
+  "rating": 3.6,
+  "min_alter": 16,
+  "bemerkungen": "Unvergessliche Szenen"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f2"
+  },
+  "name": "Forrest Gump 36",
+  "art": [
+    "Action",
+    "Animation"
+  ],
+  "jahr": 1978,
+  "regisseur": "Woody Allen",
+  "schauspieler": [
+    "Amy Adams",
+    "Al Pacino",
+    "Ben Affleck"
+  ],
+  "rating": 9.5,
+  "min_alter": 18,
+  "bemerkungen": "Brillante Dialoge"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f3"
+  },
+  "name": "The African Queen 37",
+  "art": [
+    "Thriller",
+    "Drama"
+  ],
+  "jahr": 1975,
+  "regisseur": "George Lucas",
+  "schauspieler": [
+    "Tom Hanks",
+    "Hugh Jackman",
+    "Sean Penn",
+    "Scarlett Johansson",
+    "Emma Stone"
+  ],
+  "rating": 9.7,
+  "min_alter": 12,
+  "bemerkungen": "Düster aber fesselnd"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f4"
+  },
+  "name": "Inception 38",
+  "art": [
+    "Thriller",
+    "Sci-Fi",
+    "Drama"
+  ],
+  "jahr": 2017,
+  "regisseur": "Federico Fellini",
+  "schauspieler": [
+    "Robert De Niro",
+    "Michael Caine",
+    "Tom Hanks"
+  ],
+  "rating": 7.8,
+  "min_alter": 16,
+  "bemerkungen": "Episches Filmerlebnis"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f5"
+  },
+  "name": "Avatar 39",
+  "art": [
+    "Action"
+  ],
+  "jahr": 1983,
+  "regisseur": "Orson Welles",
+  "schauspieler": [
+    "Anthony Hopkins",
+    "Sean Penn",
+    "Jack Nicholson",
+    "Charlize Theron",
+    "Edward Norton"
+  ],
+  "rating": 8.9,
+  "min_alter": 12,
+  "bemerkungen": "Perfekte Mischung aus Action und Drama"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f7"
+  },
+  "name": "Casablanca 41",
+  "art": [
+    "Abenteuer"
+  ],
+  "jahr": 1956,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Ryan Gosling",
+    "Kevin Spacey"
+  ],
+  "rating": 3.4,
+  "min_alter": 0,
+  "bemerkungen": "Unvergessliche Szenen"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f8"
+  },
+  "name": "Taxi Driver 42",
+  "art": [
+    "Abenteuer",
+    "Fantasy"
+  ],
+  "jahr": 2024,
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Hugh Jackman",
+    "Leonardo DiCaprio",
+    "Edward Norton",
+    "Samuel L. Jackson"
+  ],
+  "rating": 0.8,
+  "min_alter": 6,
+  "bemerkungen": "Bewegende Geschichte"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9f9"
+  },
+  "name": "The Godfather Part II 43",
+  "art": [
+    "Musical",
+    "Abenteuer",
+    "Dokumentation"
+  ],
+  "jahr": 1987,
+  "regisseur": "Wes Anderson",
+  "schauspieler": [
+    "Tom Hanks",
+    "Sean Penn",
+    "Harrison Ford",
+    "Al Pacino",
+    "Hugh Jackman"
+  ],
+  "rating": 9.8,
+  "min_alter": 18,
+  "bemerkungen": "Intelligenter Thriller"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9fa"
+  },
+  "name": "Some Like It Hot 44",
+  "art": [
+    "Musical"
+  ],
+  "jahr": 1997,
+  "regisseur": "Tim Burton",
+  "schauspieler": [
+    "Jack Nicholson",
+    "Leonardo DiCaprio",
+    "Natalie Portman",
+    "Al Pacino"
+  ],
+  "rating": 5.8,
+  "min_alter": 6,
+  "bemerkungen": "Visuell atemberaubend"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9fb"
+  },
+  "name": "The General 45",
+  "art": [
+    "Animation",
+    "Romance"
+  ],
+  "jahr": 2017,
+  "regisseur": "Billy Wilder",
+  "schauspieler": [
+    "Hugh Jackman",
+    "Jake Gyllenhaal",
+    "Harrison Ford",
+    "Samuel L. Jackson",
+    "Ralph Fiennes"
+  ],
+  "rating": 7.2,
+  "min_alter": 12,
+  "bemerkungen": "Emotionale Achterbahnfahrt"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9fc"
+  },
+  "name": "Psycho 46",
+  "art": [
+    "Kriegsfilm",
+    "Krimi"
+  ],
+  "jahr": 1965,
+  "regisseur": "Steven Spielberg",
+  "schauspieler": [
+    "Ryan Gosling",
+    "Liam Neeson",
+    "Meryl Streep",
+    "Anthony Hopkins",
+    "Russell Crowe"
+  ],
+  "rating": 1.7,
+  "min_alter": 6,
+  "bemerkungen": "Großartige Charakterentwicklung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9fd"
+  },
+  "name": "The African Queen 47",
+  "art": [
+    "Komödie",
+    "Kriegsfilm",
+    "Thriller"
+  ],
+  "jahr": 2002,
+  "regisseur": "Steven Spielberg",
+  "schauspieler": [
+    "Leonardo DiCaprio",
+    "Al Pacino"
+  ],
+  "rating": 8.5,
+  "min_alter": 18,
+  "bemerkungen": "Sehr empfehlenswert"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9fe"
+  },
+  "name": "Fight Club 48",
+  "art": [
+    "Sci-Fi",
+    "Kriegsfilm",
+    "Romance"
+  ],
+  "jahr": 1960,
+  "regisseur": "Christopher Nolan",
+  "schauspieler": [
+    "Charlize Theron",
+    "Robert De Niro"
+  ],
+  "rating": 8.4,
+  "min_alter": 16,
+  "bemerkungen": "Grandiose Kameraführung"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82f9ff"
+  },
+  "name": "The Gold Rush 49",
+  "art": [
+    "Fantasy"
+  ],
+  "jahr": 1966,
+  "regisseur": "George Lucas",
+  "schauspieler": [
+    "Marlon Brando",
+    "Samuel L. Jackson",
+    "Philip Seymour Hoffman",
+    "Hugh Jackman",
+    "Will Smith"
+  ],
+  "rating": 8.7,
+  "min_alter": 16,
+  "bemerkungen": "Innovativ und kreativ"
+},
+{
+  "_id": {
+    "$oid": "68d12880f2f5a553bb82fa00"
+  },
+  "name": "Singin' in the Rain 50",
+  "art": [
+    "Animation",
+    "Fantasy",
+    "Komödie"
+  ],
+  "jahr": 1980,
+  "regisseur": "William Wyler",
+  "schauspieler": [
+    "Robert De Niro",
+    "Natalie Portman",
+    "Marlon Brando",
+    "Scarlett Johansson",
+    "Tom Hanks"
+  ],
+  "rating": 4.3,
+  "min_alter": 12,
+  "bemerkungen": "Perfekte Mischung aus Action und Drama"
+},
+{
+  "_id": {
+    "$oid": "68f5f6fb3b6f4054d8a9b75c"
+  },
+  "name": "asdfasf",
+  "art": "asdf",
+  "jahr": "d",
+  "regisseur": "d",
+  "schauspieler": "d",
+  "rating": "d",
+  "min_alter": "d",
+  "bemerkungen": "d"
+},
+{
+  "_id": {
+    "$oid": "68ff264998b37654f0e28bb8"
+  },
+  "name": "ivan test",
+  "art": "art",
+  "jahr": "jahr",
+  "regisseur": "hshshs",
+  "schauspieler": "hasdfasfd",
+  "rating": "jfjfjf",
+  "min_alter": "jfjffj",
+  "bemerkungen": "fjfjfj"
+},
+{
+  "_id": {
+    "$oid": "68ff26f080c0eab074b5e736"
+  },
+  "name": "ivan test 2",
+  "art": "art2",
+  "jahr": "jahrrrr",
+  "regisseur": "asdfsdf",
+  "schauspieler": "df",
+  "rating": "sfsf",
+  "min_alter": "sffs",
+  "bemerkungen": "fs"
+},
+{
+  "_id": {
+    "$oid": "68ff26fc80c0eab074b5e737"
+  },
+  "art": "q"
+},
+{
+  "_id": {
+    "$oid": "68ff2d55095a6d791784e40a"
+  },
+  "name": "name",
+  "art": "s",
+  "regisseur": "s"
+}]
